@@ -4,7 +4,7 @@
 
 `Eixo 2 - Projeto: Desenvolvimento de uma Aplicação Interativa - Turma 7`
 
-`1°/2024`
+`1° SEMESTRE/2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
