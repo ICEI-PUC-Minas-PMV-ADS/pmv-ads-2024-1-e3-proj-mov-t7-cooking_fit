@@ -1,23 +1,25 @@
 # COOKING FIT
 
-`CURSO`
+`Análise e Desenvolvimento de sistemas`
 
-`DISCIPLINA`
+`Eixo 2 - Projeto: Desenvolvimento de uma Aplicação Interativa - Turma 7`
 
-`SEMESTRE`
+`1°/2024`
 
 Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Ariel Ortega Acerbi
+* Emília Raphael dos Santos
+* João Victor Diniz Piazza
+* Pedro Henrique Ferreira Amorim
+* Thiago Rodrigues Silva de Oliveira
+* Vitor de Paula Andrade
 
 ## Orientador
 
-* Nome completo do professor 1
+* Bernardo Jeunon de Alencar
 
 ## Instruções de utilização
 
