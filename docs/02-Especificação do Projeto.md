@@ -11,12 +11,15 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144388125/10691c91-e3a8-4393-8f8e-e9af0ad2171e)
 
 
-Maria Alice tem 36 anos, é policial e trabalha nas ruas. Pensa em melhorar seu condicionamento físíco em converter gordura em massa magra pois seu trabalho exige do seu condicionamento físico é solteiroa e sempre quis melhorar sua alimentação mas nunca teve tempo para se dedicar a isso. Está buscando uma maneira fácil de controlar suas refeições.
+Maria Alice tem 36 anos, é policial e trabalha nas ruas. Pensa em melhorar seu condicionamento físíco em converter gordura em massa magra pois seu trabalho exige do seu condicionamento físico é solteira e sempre quis melhorar sua alimentação mas nunca teve tempo para se dedicar a isso. Está buscando uma maneira fácil de controlar suas refeições.
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/146040771/bba56ef3-c065-4366-8ad1-fec29a751f44)
 
 Sandra de 39 anos, mãe solteira de duas crianças que se desdobra para lidar com o trabalho e cuidar dos filhos teve uma notícia ruim, descobriu que está pré diabética foi orientada por um profissional a mudar radicalmente sua dieta. Desesperada e sem muito tempo disponível em sua rotina procurou uma ferramenta que ajudasse com receitas e cuidados especiais pra enfrentar esse obstáculo.  
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743493/28922630-4a61-402e-a2d7-c3f485743a9d)
+
+Felipe Silva tem 54 anos, bancário e trabalha quase o dia todo sentado. Depois de muitos anos dessa rotina, ele reparou que sua saúde não é mais a mesma, sobrepeso e alguns outros problemas de saúde o obrigaram a sair desse estilo de vida sedentário para uma vida mais saudável. Busca um aplicativo que o auxilie nessa nova etapa de sua vida.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
