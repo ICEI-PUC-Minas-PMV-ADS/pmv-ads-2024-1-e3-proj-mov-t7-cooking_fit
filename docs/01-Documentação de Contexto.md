@@ -22,12 +22,11 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Os objetivos desse projeto são:
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+- oferecer um controle ao usuário quanto ao consumo e gasto calórico;
+- facilitar a escolha do usuário por opções mais saudáveis de alimentação;
+- permitir que o usuário alcance seus objetivos de saúde e fitness por meio de acompanhamento intuitivo, personalizado e avançado.
 
 ## Justificativa
 
