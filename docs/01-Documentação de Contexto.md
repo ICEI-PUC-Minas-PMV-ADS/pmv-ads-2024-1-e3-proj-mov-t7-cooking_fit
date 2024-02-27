@@ -31,8 +31,7 @@ O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estat�
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes ou quais serão os papéis dos usuários na aplicação. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações
-hierárquicas, etc.
+O projeto tem foco em pessoas de todas as idades sendo elas homens ou mulheres que queiram melhorar sua alimentação, de atletas profissionais que necessitam de um controle preciso sobre as suas dietas a pessoas comuns que gostariam de levar uma vida mais saudável, mas que nem sempre possuem tempo para montar uma dieta balanceada ou simplesmente não sabem como começar essa nova pratica ou estão sempre em busca de mais praticidade para o dia a dia. 
 
 Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
 
