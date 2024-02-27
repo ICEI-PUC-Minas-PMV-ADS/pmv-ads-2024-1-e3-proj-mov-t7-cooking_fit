@@ -13,6 +13,11 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Maria Alice tem 36 anos, é policial e trabalha nas ruas. Pensa em melhorar seu condicionamento físíco em converter gordura em massa magra pois seu trabalho exige do seu condicionamento físico é solteiroa e sempre quis melhorar sua alimentação mas nunca teve tempo para se dedicar a isso. Está buscando uma maneira fácil de controlar suas refeições.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/146040771/bba56ef3-c065-4366-8ad1-fec29a751f44)
+
+Sandra de 39 anos, mãe solteira de duas crianças que se desdobra para lidar com o trabalho e cuidar dos filhos teve uma notícia ruim, descobriu que está pré diabética foi orientada por um profissional a mudar radicalmente sua dieta. Desesperada e sem muito tempo disponível em sua rotina procurou uma ferramenta que ajudasse com receitas e cuidados especiais pra enfrentar esse obstáculo.  
+
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
