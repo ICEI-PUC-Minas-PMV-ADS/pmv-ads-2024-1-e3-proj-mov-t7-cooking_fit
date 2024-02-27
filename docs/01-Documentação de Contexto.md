@@ -1,6 +1,8 @@
 # Introdução
 
-O CookingFit é um monitor de consumo de alimentos revolucionário, focado em registros simples, personalização poderosa e perspectivas avançadas. Coma, beba e se movimente com o seu novo companheiro.
+No contexto altamente competitivo do mercado atual, as pessoas estão cada vez mais imersas em rotinas frenéticas, deixando pouco espaço para se dedicarem à alimentação. Embora haja um interesse crescente em adotar hábitos saudáveis, a disponibilidade de tempo é escassa.
+
+O CookingFit vem para ajudar nessa 'mudança de chave'. Trata-se de um monitor de consumo de alimentos revolucionário, focado em registros simples, personalização poderosa e perspectivas avançadas. Coma, beba e se movimente com o seu novo companheiro.
 
 🤔 O QUE É O CookingFit?
 
