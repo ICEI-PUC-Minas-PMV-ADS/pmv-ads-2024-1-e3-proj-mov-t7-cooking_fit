@@ -8,7 +8,10 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144388125/10691c91-e3a8-4393-8f8e-e9af0ad2171e)
+
+
+Maria Alice tem 36 anos, é policial e trabalha nas ruas. Pensa em melhorar seu condicionamento físíco em converter gordura em massa magra pois seu trabalho exige do seu condicionamento físico é solteiroa e sempre quis melhorar sua alimentação mas nunca teve tempo para se dedicar a isso. Está buscando uma maneira fácil de controlar suas refeições.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
