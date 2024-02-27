@@ -10,7 +10,7 @@ O Nutrilio é o seu novo amigo, que lhe ajudará a focar em um estilo de vida e 
 
 ## Problema
 
-Conforme exposto, o problema que se busca resolver com este projeto é melhora a má alimentação das pessoas. Muitas vezes essa má alimentação vem pela falta de tempo para preparar algo mais saudável, a necessidade de alimentos fabricados rapidamente (alimentos ultra processados, alimentos de fácil acesso e mais em conta) e a grande variedade de produtos pouco saudáveis (encontrado em qualquer lugar: incluindo grandes redes de supermercados, saguões de shopping centers, estações de metrô e terminais rodoviários, redes de fast-food, pequenas vendas e locais onde alimentos não eram comumente comercializados, como farmácias, postos de gasolina, bancas de jornal, cinemas, escolas e hospitais).
+Conforme exposto, o problema que se busca resolver com este projeto é melhorar a má alimentação das pessoas. Muitas vezes essa má alimentação vem pela falta de tempo para preparar algo mais saudável, a necessidade de alimentos fabricados rapidamente (alimentos ultra processados, alimentos de fácil acesso e mais em conta) e a grande variedade de produtos pouco saudáveis (encontrado em qualquer lugar: incluindo grandes redes de supermercados, saguões de shopping centers, estações de metrô e terminais rodoviários, redes de fast-food, pequenas vendas e locais onde alimentos não eram comumente comercializados, como farmácias, postos de gasolina, bancas de jornal, cinemas, escolas e hospitais).
 
 ## Objetivos
 
