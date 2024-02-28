@@ -22,6 +22,10 @@ Sandra de 39 anos, mãe solteira de duas crianças que se desdobra para lidar co
 
 Felipe Silva tem 54 anos, bancário e trabalha quase o dia todo sentado. Depois de muitos anos dessa rotina, ele reparou que sua saúde não é mais a mesma, sobrepeso e alguns outros problemas de saúde o obrigaram a sair desse estilo de vida sedentário para uma vida mais saudável. Busca um aplicativo que o auxilie nessa nova etapa de sua vida.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743654/49e68b85-5a7e-4194-9e70-068e0545e273)
+
+Jeniffer, tem 24 anos, é fisioterapeuta e trabalha por conta própria, tem uma péssima alimentação e está acima do peso. Estava muito sobrecarregada com o próprio negócio pensando só na saúde das outras pessoas. Com o sobrepeso isso decidir procurar uma nutricionista e ir na academia pra me ajudar nesse processo. A dificuldade é ter constância e ser organizada com os alimentos (se preparar antes, economiza tempo e fica mais fácil de alimentar). Péssimo habito é não tem controle sobre os alimentos e come alimentos ultra processados, alimentos de fácil acesso e mais em conta. Com a aplicação procura uma melhor organização e emagrecer pra me sentir bem comigo mesmo.
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
