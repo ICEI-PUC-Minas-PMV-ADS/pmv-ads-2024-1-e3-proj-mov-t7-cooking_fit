@@ -65,6 +65,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Felipe Silva | Controlar os horários de suas refeições  | para nao perder nenhuma refeição importante  |
 |Jeniffer | Ter constância e ser organizada com os alimentos |para melhor organização na alimentação e emagrecer para se sentir bem.
 |José Carlos  | Dedicar mais tempo a preparar refeições saudáveis | CBuscar qualidade de vida, prevenir futuros problemas de saúde |
+|Rodrigo oliveira  | Melhoria e controle nas refeições  | Perde hábitos de má alimentação que prejudica sua saúde |
 
 
 
