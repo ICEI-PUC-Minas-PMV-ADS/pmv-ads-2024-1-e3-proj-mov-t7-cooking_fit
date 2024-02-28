@@ -22,9 +22,7 @@ Os objetivos desse projeto são:
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+A procura por hábitos saudáveis sejam eles através de exercícios ou alimentares, em um mundo pós pandêmico, vem crescendo cada vez mais.  A Alimentação assume um papel fundamental que impacta diretamente em nossa saúde física, mental e emocional. A busca por uma alimentação saudável pode ser desafiadora em meio a uma rotina agitada e a oferta constante de alimentos industrializados e ultraprocessados. A falta de tempo, que pode dificultar o planejamento de refeições nutritivas e a falta de informação de como montar um cardápio equilibrado e verificar as opções de alimentos possíveis, podem gerar inseguranças.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
