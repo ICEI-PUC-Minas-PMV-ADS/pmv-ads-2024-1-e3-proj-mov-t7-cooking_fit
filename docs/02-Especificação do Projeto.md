@@ -37,6 +37,9 @@ Frustrações: José entende que precisa dedicar tempo em sua agenda para conseg
 
 Hobbies, história: Gosta de andar de bicicleta e futebol.
 
+![WhatsApp-Image-2021-10-06-at-07 52 26](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/135378577/7176129c-d8a5-4b0a-8c68-17c5506565b9)
+
+Rodrigo oliveira tem 45 anos,trabalha como servente de pedreiro e posui problema de pressão alta e inico de diabetes.Os medico recomendou um controle alimentar,para isso ele usa o aplicativo para ter controle de sua alimentação diario melhoria condição fisica de trabalho. 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
