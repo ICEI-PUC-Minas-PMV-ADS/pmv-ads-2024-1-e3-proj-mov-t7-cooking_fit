@@ -26,6 +26,7 @@ Felipe Silva tem 54 anos, bancário e trabalha quase o dia todo sentado. Depois 
 
 Jeniffer, tem 24 anos, é fisioterapeuta e trabalha por conta própria, tem uma péssima alimentação e está acima do peso. Estava muito sobrecarregada com o próprio negócio pensando só na saúde das outras pessoas. Com o sobrepeso decidiu procurar uma nutricionista e ir na academia para ajudar nesse processo. A dificuldade é ter constância e ser organizada com os alimentos (se preparar antes, economiza tempo e fica mais fácil de alimentar). Péssimo habito não ter controle sobre os alimentos e come alimentos ultra processados, alimentos de fácil acesso e mais em conta. Com a aplicação procura uma melhor organização na alimentação e emagrecer para se sentir bem.
 
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/120505395/10cb048d-c214-4ce2-94e9-f91f91737834)
 
 José Carlos
 
