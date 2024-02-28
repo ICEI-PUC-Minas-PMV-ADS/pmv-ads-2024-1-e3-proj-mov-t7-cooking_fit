@@ -24,7 +24,7 @@ Felipe Silva tem 54 anos, bancário e trabalha quase o dia todo sentado. Depois 
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743654/49e68b85-5a7e-4194-9e70-068e0545e273)
 
-Jeniffer, tem 24 anos, é fisioterapeuta e trabalha por conta própria, tem uma péssima alimentação e está acima do peso. Estava muito sobrecarregada com o próprio negócio pensando só na saúde das outras pessoas. Com o sobrepeso decidi procurar uma nutricionista e ir na academia para ajudar nesse processo. A dificuldade é ter constância e ser organizada com os alimentos (se preparar antes, economiza tempo e fica mais fácil de alimentar). Péssimo habito é não tem controle sobre os alimentos e come alimentos ultra processados, alimentos de fácil acesso e mais em conta. Com a aplicação procura uma melhor organização e emagrecer pra me sentir bem comigo mesmo.
+Jeniffer, tem 24 anos, é fisioterapeuta e trabalha por conta própria, tem uma péssima alimentação e está acima do peso. Estava muito sobrecarregada com o próprio negócio pensando só na saúde das outras pessoas. Com o sobrepeso decidiu procurar uma nutricionista e ir na academia para ajudar nesse processo. A dificuldade é ter constância e ser organizada com os alimentos (se preparar antes, economiza tempo e fica mais fácil de alimentar). Péssimo habito não ter controle sobre os alimentos e come alimentos ultra processados, alimentos de fácil acesso e mais em conta. Com a aplicação procura uma melhor organização e emagrecer para se sentir bem comigo mesmo.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
@@ -48,7 +48,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Maria Alice       | visualizar quantas calorias já consumi                 | para saber quantas ainda posso consumir |
 |Sandra  | Encontrar receitas saudáveis          | Combater a pré-diabetes           |
 |Felipe Silva | Controlar os horários de suas refeições  | para nao perder nenhuma refeição importante  |
-|Jeniffer | Ter constância e ser organizada com os alimentos |para melhor organização e emagrecer pra me sentir bem comigo mesmo.
+|Jeniffer | Ter constância e ser organizada com os alimentos |para melhor organização e emagrecer para se sentir bem comigo mesmo.
 |
 
 
