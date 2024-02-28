@@ -26,6 +26,16 @@ Felipe Silva tem 54 anos, bancário e trabalha quase o dia todo sentado. Depois 
 
 Jeniffer, tem 24 anos, é fisioterapeuta e trabalha por conta própria, tem uma péssima alimentação e está acima do peso. Estava muito sobrecarregada com o próprio negócio pensando só na saúde das outras pessoas. Com o sobrepeso decidiu procurar uma nutricionista e ir na academia para ajudar nesse processo. A dificuldade é ter constância e ser organizada com os alimentos (se preparar antes, economiza tempo e fica mais fácil de alimentar). Péssimo habito não ter controle sobre os alimentos e come alimentos ultra processados, alimentos de fácil acesso e mais em conta. Com a aplicação procura uma melhor organização na alimentação e emagrecer para se sentir bem.
 
+
+José Carlos
+
+Idade: 37 anos
+Ocupação: Autônomo
+Motivações: José tem vontade de buscar melhor qualidade de vida, pois a falta de tempo durante a semana trás com que se alimente incorretamente buscando opções fáceis como lanches e fastfoods.
+Frustrações: José entende que precisa dedicar tempo em sua agenda para conseguir elaborar um cardápio e preparar as refeições, mas as demandas de trabalho estão cada vez maiores, sente-se preso a um looping.
+
+Hobbies, história: Gosta de andar de bicicleta e futebol.
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
@@ -49,7 +59,8 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Sandra  | Encontrar receitas saudáveis          | Combater a pré-diabetes           |
 |Felipe Silva | Controlar os horários de suas refeições  | para nao perder nenhuma refeição importante  |
 |Jeniffer | Ter constância e ser organizada com os alimentos |para melhor organização na alimentação e emagrecer para se sentir bem.
-|
+|José Carlos  | Dedicar mais tempo a preparar refeições saudáveis | CBuscar qualidade de vida, prevenir futuros problemas de saúde |
+
 
 
 Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
