@@ -16,7 +16,7 @@ Maria Alice tem 36 anos, é policial e trabalha nas ruas. Pensa em melhorar seu 
 ![Sandra](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743493/85ef5f4e-b546-4a6c-bd65-e973a9176b45)
 
 
-Sandra de 39 anos, mãe solteira de duas crianças que se desdobra para lidar com o trabalho e cuidar dos filhos teve uma notícia ruim, descobriu que está pré diabética foi orientada por um profissional a mudar radicalmente sua dieta. Desesperada e sem muito tempo disponível em sua rotina procurou uma ferramenta que ajudasse com receitas e cuidados especiais pra enfrentar esse obstáculo.  
+Sandra de 39 anos, mãe solteira de duas crianças que se desdobra para lidar com o trabalho e cuidar dos filhos teve uma notícia ruim, descobriu que está pré diabética e foi orientada por um profissional a mudar radicalmente sua dieta. Desesperada e sem muito tempo disponível em sua rotina procurou uma ferramenta que ajudasse com receitas e cuidados especiais para enfrentar esse obstáculo.  
 
 ![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743493/28922630-4a61-402e-a2d7-c3f485743a9d)
 
