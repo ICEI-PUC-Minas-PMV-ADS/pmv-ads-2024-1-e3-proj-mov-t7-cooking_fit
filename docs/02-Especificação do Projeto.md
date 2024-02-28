@@ -39,7 +39,7 @@ Hobbies, história: Gosta de andar de bicicleta e futebol.
 
 ![WhatsApp-Image-2021-10-06-at-07 52 26](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/135378577/7176129c-d8a5-4b0a-8c68-17c5506565b9)
 
-Rodrigo oliveira tem 45 anos, trabalha como servente de pedreiro e possui problema de pressão alta e início de diabete. O médico recomendou um controle alimentar além da medicação, para isso ele usa o aplicativo para ter controle de sua alimentação diário emelhoria condição física de trabalho.
+Rodrigo oliveira tem 45 anos, trabalha como servente de pedreiro e possui problema de pressão alta e início de diabete. O médico recomendou um controle alimentar além da medicação, para isso ele usa o aplicativo para ter controle de sua alimentação diário e de melhoria da condição física de trabalho.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
