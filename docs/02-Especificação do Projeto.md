@@ -36,7 +36,7 @@ Motivações: José tem vontade de buscar melhor qualidade de vida, pois a falta
 Frustrações: José entende que precisa dedicar tempo em sua agenda para conseguir elaborar um cardápio e preparar as refeições, mas as demandas de trabalho estão cada vez maiores, sente-se preso a um looping.
 
 Hobbies, história: Gosta de andar de bicicleta e futebol.
-![image](https://www.google.com/imgres?imgurl=https%3A%2F%2Fs2-g1.glbimg.com%2FpBGp2ntIV3JDJpHT-hjwHL4xr_Q%3D%2F0x0%3A1600x900%2F984x0%2Fsmart%2Ffilters%3Astrip_icc()%2Fi.s3.glbimg.com%2Fv1%2FAUTH_59edd422c0c84a879bd37670ae4f538a%2Finternal_photos%2Fbs%2F2018%2F2%2Fx%2FecLbNVQiqvAjnE9u7rtQ%2Fobra1.jpg&tbnid=71a8m26UvySDfM&vet=12ahUKEwiZ28Kw2c6EAxW9GbkGHf5sCtcQMygdegQIARBv..i&imgrefurl=https%3A%2F%2Fg1.globo.com%2Fse%2Fsergipe%2Fnoticia%2F2019%2F02%2F08%2Fnat-oferta-vagas-para-ajudante-de-carpinteiro-e-pedreiro.ghtml&docid=BbJiFZ1vUZCqWM&w=984&h=554&q=ajudante%20de%20pedreiro&ved=2ahUKEwiZ28Kw2c6EAxW9GbkGHf5sCtcQMygdegQIARBv)
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
