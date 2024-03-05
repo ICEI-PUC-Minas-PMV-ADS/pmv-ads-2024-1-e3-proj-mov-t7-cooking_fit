@@ -134,15 +134,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
-|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
-|RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel. | MÉDIA | 
+|RNF-002| Deve processar requisições do usuário em no máximo 3s. |  BAIXA | 
 |RNF-003| Interface Amigável e Intuitiva: Projetar uma interface de usuário intuitiva e amigável, com navegação fácil e instruções claras, para garantir que os usuários possam usar o aplicativo sem dificuldades. | MÉDIA |
-|RNF-004| A plataforma deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
+|RNF-004| A plataforma deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge). | ALTA |
 |RNF-005| A plataforma deve funcionar 24 horas por dia, 7 dias por semana. | ALTA |
-|RNF-006| A plataforma deve haver sistemas de backup robustos para garantir que os dados dos usuários estejam protegidos e que seja possível restaurá-los em caso de falha ou perda de dados. | ALTA |
-|RNF-007| A plataforma deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade.. | ALTA |
-|RNF-008| A plataforma deve ser capaz de criar e recuperar cadastros . | ALTA |
-|RNF-009| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
+|RNF-006| A plataforma deve haver sistemas de backup robustos para garantir que os dados dos usuários estejam protegidos e que seja possível restaurá-los em caso de falha ou perda de dados e deve ser capaz de criar e recuperar cadastros. | ALTA |
+|RNF-007| A plataforma deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade. | ALTA |
+|RNF-008| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
