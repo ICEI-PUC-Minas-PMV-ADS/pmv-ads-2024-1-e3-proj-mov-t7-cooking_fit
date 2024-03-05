@@ -123,9 +123,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A plataforma deve permitir ao usuário visualizar informações interativas sobre tipos de dietas e receitas alimentares, como ex: dieta cetogenica, jejum intermitente. | MÉDIA |
 |RF-005| A plataforma deve permitir que os usuários salvem as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
 |RF-006| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ào usuário.  (thumbnail).   | MÉDIA |
-|RF-007| A plataforma deve identificar e alertar alimnetos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil   (thumbnail).   | ALTA |
-|RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.  (thumbnail).   | ALTA |
-|RF-009| A plataforma deve possibilitar que os usuários tenha acesso à aplicação (receitas salvas) mesmo com pouca internet, para os usuários que estejam em locais onde o acesso à internet é limitado.  (thumbnail).   | ALTA |
+|RF-007| A plataforma deve identificar e alertar alimnetos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
+|RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.    | ALTA |
+|RF-009| A plataforma deve possibilitar que os usuários tenha acesso à aplicação (receitas salvas) mesmo com pouca internet, para os usuários que estejam em locais onde o acesso à internet é limitado. | ALTA |
 
 
 
