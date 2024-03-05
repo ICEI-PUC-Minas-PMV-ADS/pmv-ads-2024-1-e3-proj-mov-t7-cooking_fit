@@ -119,6 +119,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |------|-----------------------------------------|----|
 |RF-001| Permitir que o usuário cadastre os itens das refeições realizadas | ALTA | 
 |RF-002| Exibir o quantitativo calórico cadastrado diariamente | ALTA | 
+|RF-003| Personalização de Planos Alimentares: Oferecer a capacidade de personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
 
 
 ### Requisitos não Funcionais
@@ -127,6 +128,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |-------|-------------------------|----|
 |RNF-001| O sistema deve ser responsivo para rodar em um dispositivos móvel | MÉDIA | 
 |RNF-002| Deve processar requisições do usuário em no máximo 3s |  BAIXA | 
+|RNF-003| Interface Amigável e Intuitiva: Projetar uma interface de usuário intuitiva e amigável, com navegação fácil e instruções claras, para garantir que os usuários possam usar o aplicativo sem dificuldades. | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
