@@ -124,6 +124,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-005| A plataforma deve permitir que os usuários salvem as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
 |RF-006| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ào usuário.  (thumbnail).   | MÉDIA |
 |RF-007| A plataforma deve identificar e alertar alimnetos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil   (thumbnail).   | ALTA |
+|RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.  (thumbnail).   | ALTA |
 
 
 ### Requisitos não Funcionais
