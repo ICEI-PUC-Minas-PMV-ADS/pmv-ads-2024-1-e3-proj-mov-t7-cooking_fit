@@ -138,6 +138,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-003| Interface Amigável e Intuitiva: Projetar uma interface de usuário intuitiva e amigável, com navegação fácil e instruções claras, para garantir que os usuários possam usar o aplicativo sem dificuldades. | MÉDIA |
 |RNF-004| A plataforma deve ser compatível com os principais navegadores do mercado (Google Chrome, Firefox, Microsoft Edge) | ALTA |
 |RNF-005| A plataforma deve funcionar 24 horas por dia, 7 dias por semana. | ALTA |
+|RNF-006| A plataforma deve haver sistemas de backup robustos para garantir que os dados dos usuários estejam protegidos e que seja possível restaurá-los em caso de falha ou perda de dados. | ALTA |
+|RNF-007| A plataforma deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade.. | ALTA |
+
 
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
