@@ -64,7 +64,7 @@ Com base na análise das personas forma identificadas as seguintes histórias de
 |Sandra  | Encontrar receitas saudáveis          | Combater a pré-diabetes           |
 |Felipe Silva | Controlar os horários de suas refeições  | para nao perder nenhuma refeição importante  |
 |Jeniffer | Ter constância e ser organizada com os alimentos |para melhor organização na alimentação e emagrecer para se sentir bem.
-|José Carlos  | Dedicar mais tempo a preparar refeições saudáveis | CBuscar qualidade de vida, prevenir futuros problemas de saúde |
+|José Carlos  | Dedicar mais tempo a preparar refeições saudáveis | Buscar qualidade de vida, prevenir futuros problemas de saúde |
 |Rodrigo oliveira  | Melhoria e controle nas refeições  | Perde hábitos de má alimentação que prejudica sua saúde |
 
 
@@ -123,7 +123,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-004| A plataforma deve permitir ao usuário visualizar informações interativas sobre tipos de dietas e receitas alimentares, como ex: dieta cetogenica, jejum intermitente. | MÉDIA |
 |RF-005| A plataforma deve permitir que os usuários salvem as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
 |RF-006| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ào usuário.  (thumbnail).   | MÉDIA |
-|RF-007| A plataforma deve identificar e alertar alimnetos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
+|RF-007| A plataforma deve identificar e alertar alimentos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
 |RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.    | ALTA |
 |RF-009| A plataforma deve possibilitar que os usuários tenha acesso à aplicação (receitas salvas) mesmo com pouca internet, para os usuários que estejam em locais onde o acesso à internet é limitado. | ALTA |
 |RF-010| Sugestão de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
