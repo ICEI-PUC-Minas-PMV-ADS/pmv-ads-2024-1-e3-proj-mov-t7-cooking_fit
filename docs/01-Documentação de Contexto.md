@@ -31,7 +31,9 @@ A procura por hábitos saudáveis sejam eles através de exercícios ou alimenta
 
 O projeto tem foco em pessoas de todas as idades sendo elas homens ou mulheres que queiram melhorar sua alimentação, de atletas profissionais que necessitam de um controle preciso sobre as suas dietas a pessoas comuns que gostariam de levar uma vida mais saudável, mas que nem sempre possuem tempo para montar uma dieta balanceada ou simplesmente não sabem como começar essa nova pratica ou estão sempre em busca de mais praticidade para o dia a dia. 
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual, diagramas de personas e mapa de stakeholders.
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/146040771/8514484c-a0c0-4d70-92b5-766065dca1ea)
+
 
 > **Links Úteis**:
 > - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
