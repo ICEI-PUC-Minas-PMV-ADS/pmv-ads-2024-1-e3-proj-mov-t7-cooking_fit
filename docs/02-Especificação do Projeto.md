@@ -117,6 +117,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
+|RF-001| Cadastro de Usuários: Permitir que os usuários criem contas utilizando o endereço de e-mail, CPF, endereço residencial, considerando métodos definidos RBAC e utilizando funções CRUD | ALTA | 
 |RF-001| Permitir que o usuário cadastre os itens das refeições realizadas | ALTA | 
 |RF-002| Exibir o quantitativo calórico cadastrado diariamente | ALTA | 
 |RF-003| Personalização de Planos Alimentares: Oferecer a capacidade de personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
