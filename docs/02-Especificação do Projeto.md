@@ -125,10 +125,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-006| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ao usuário.  (thumbnail).   | MÉDIA |
 |RF-007| A plataforma deve identificar e alertar alimentos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
 |RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.    | ALTA |
-|RF-009| A plataforma deve possibilitar que os usuários tenha acesso à aplicação (receitas salvas) mesmo com pouca internet, para os usuários que estejam em locais onde o acesso à internet é limitado. | ALTA |
-|RF-010| Sugestão de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
-|RF-011| A plataforma deve disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
-|RF-012| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
+|RF-008| Sugestão de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
+|RF-009| A plataforma deve disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
+|RF-010| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
 
 
 ### Requisitos não Funcionais
@@ -142,6 +141,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RNF-005| A plataforma deve funcionar 24 horas por dia, 7 dias por semana. | ALTA |
 |RNF-006| A plataforma deve haver sistemas de backup robustos para garantir que os dados dos usuários estejam protegidos e que seja possível restaurá-los em caso de falha ou perda de dados e deve ser capaz de criar e recuperar cadastros. | ALTA |
 |RNF-007| A plataforma deve ser capaz de lidar com um grande número de usuários simultâneos sem comprometer o desempenho ou a disponibilidade. | ALTA |
+|RF-008| A plataforma deve possibilitar que os usuários tenha acesso à aplicação (receitas salvas) offline. | MÉDIA |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
