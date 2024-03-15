@@ -118,17 +118,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
 |RF-001| Cadastro de Usuários: Permitir que os usuários criem contas utilizando o endereço de e-mail, CPF, endereço residencial, considerando métodos definidos RBAC e utilizando funções CRUD | ALTA | 
-|RF-001| Permitir que o usuário cadastre os itens das refeições realizadas | ALTA | 
-|RF-002| Exibir o quantitativo calórico cadastrado diariamente | ALTA | 
-|RF-003| Personalização de Planos Alimentares: Oferecer a capacidade de personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
-|RF-004| A plataforma deve permitir ao usuário visualizar informações interativas sobre tipos de dietas e receitas alimentares, como ex: dieta cetogenica, jejum intermitente. | MÉDIA |
-|RF-005| A plataforma deve permitir que os usuários salvem as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
-|RF-006| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ao usuário.  (thumbnail).   | MÉDIA |
-|RF-007| A plataforma deve identificar e alertar alimentos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
-|RF-008| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.    | ALTA |
-|RF-008| Sugestão de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
-|RF-009| A plataforma deve disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
-|RF-010| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
+|RF-002| Permitir que o usuário cadastre os itens das refeições realizadas | ALTA | 
+|RF-003| Exibir o quantitativo calórico cadastrado diariamente | ALTA | 
+|RF-004| Personalização de Planos Alimentares: Oferecer a capacidade de personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
+|RF-005| A plataforma deve permitir ao usuário visualizar informações interativas sobre tipos de dietas e receitas alimentares, como ex: dieta cetogenica, jejum intermitente. | MÉDIA |
+|RF-006| A plataforma deve permitir que os usuários salvem as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
+|RF-007| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ao usuário.  (thumbnail).   | MÉDIA |
+|RF-008| A plataforma deve identificar e alertar alimentos alergicos em receitas, caso o usuário informar/ identificar na hora da criação de seu perfil.   | ALTA |
+|RF-009| A plataforma deve possibilitar que os usuários deixem comentários, avaliem e compartilhem suas experiências com cada receita.    | ALTA |
+|RF-010| Sugestão de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
+|RF-011| A plataforma deve disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
+|RF-012| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
 
 
 ### Requisitos não Funcionais
