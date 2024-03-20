@@ -165,8 +165,13 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
-|01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
+|01| O projeto deverá ser entregue até o final do semestre 06/2024. |
+|02| A equipe não pode subcontratar / tercerizar o desenvolvimento do trabalho.|
+|03| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend. |
+|04| A esquipe não deverá aceitar parcerias de qualuqer area de negócios, focando em parceria na area de saúde e educação. |
+|05| As receitas não pode violar os Normas de Segurança Alimentar. |
+|06| A equipe deve restrigir a à publicidade de alimentos não saudáveis ​​ou à promoção de determinados ingredientes considerados prejudiciais à saúde.|
+|07| O aplicativo não deve exibir receitas que não contém selo ou certificados de qualidade. (?) |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
