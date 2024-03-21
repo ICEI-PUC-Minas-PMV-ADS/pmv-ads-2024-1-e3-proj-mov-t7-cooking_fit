@@ -115,14 +115,14 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 |RF-001| Permitir que os usuários criem contas utilizando o endereço de e-mail, CPF, endereço residencial, considerando métodos definidos RBAC e utilizando funções CRUD | ALTA | 
 |RF-002| Permitir que o usuário gerencie os itens das refeições realizadas | ALTA | 
 |RF-003| Exibir o quantitativo calórico cadastrado diariamente | ALTA | 
-|RF-004| Gerenciar refeições, oferecer a capacidade de personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
+|RF-004| Personalizar planos alimentares com base nas preferências dietéticas, restrições alimentares e metas de saúde individuais dos usuários. | ALTA |
 |RF-005|Consultar diertas, permitir ao usuário visualizar informações interativas sobre tipos de dietas e receitas alimentares, como ex: dieta cetogenica, jejum intermitente. | MÉDIA |
 |RF-006| Salvar as receitas pesquisadas e cardapios planejados, armazenando essas informações no armazenamento local do navegador.  | MÉDIA |
 |RF-007| A plataforma deve apresentar, para cada usuário, uma imagem de perfil correspondente ao usuário.  (thumbnail).   | MÉDIA |
 |RF-008| Comentar e avaliar receitas.   | MÉDIA |
-|RF-009| Surgerir de cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
-|RF-010| A plataforma deve disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
-|RF-011| A Plataforma deve disponibilizar uma ferramenta que permite aos usuários converter medidas de ingredientes por exemplo, xícaras para gramas. | BAIXA |
+|RF-009| Surgerir cardapio para o usuário, oferecendo uma alimentação controlada e saudável. | BAIXA |
+|RF-010| Disponibilizar aos usuários uma barra de pesquisa eficiente que permite aos usuários buscar receitas específicas por nome ou ingredientes.   | ALTA |
+
 
 
 ### Requisitos não Funcionais
