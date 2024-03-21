@@ -164,7 +164,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |03| O aplicativo deve se restringir às tecnologias básicas da Web no Frontend. |
 |04| A esquipe não deverá aceitar parcerias de qualquer area de negócios, focando em parceria na área de saúde e educação. |
 |05| As receitas não pode violar os Normas de Segurança Alimentar. |
-|06| A equipe deve restrigir a publicidade de alimentos não saudáveis ​​ou à promoção de determinados ingredientes considerados prejudiciais à saúde.|
+|06| A equipe deve restringir a publicidade de alimentos não saudáveis ​​ou a promoção de determinados ingredientes considerados prejudiciais à saúde.|
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
