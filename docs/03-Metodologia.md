@@ -10,6 +10,14 @@ Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Defini�
 Os artefatos do projeto são desenvolvidos a partir de diversas plataformas e a relação dos ambientes com seu respectivo propósito deverá ser apresentada em uma tabela que especifica que detalha Ambiente, Plataforma e Link de Acesso. 
 Nota: Vide documento modelo do estudo de caso "Portal de Notícias" e defina também os ambientes e frameworks que serão utilizados no desenvolvimento de aplicações móveis.
 
+|AMBIENTE| PLATAFORMA | LINK DE ACESSO |
+|--------------------|------------------------------------|----------------------------------------|
+|Repositório de código fonte |GitHub |       |
+|Documentos do projeto | GitHub |   |
+|Projeto de Interface e Wireframes | Figma | https://www.figma.com/file/cdf24jSBZuTtU9shXfT7Bc/Cooking-fit?type=design&node-id=0-1&mode=design&t=FdKRslQn5BPh7g60-0  |
+|Gerenciamento do Projeto |Trello  |   |
+
+
 ## Controle de Versão
 
 A ferramenta de controle de versão adotada no projeto foi o
@@ -43,15 +51,25 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ## Gerenciamento de Projeto
 
-### Divisão de Papéis
+A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento.
+A equipe está organizada da seguinte maneira:
 
-Apresente a divisão de papéis entre os membros do grupo.
+* Scrum Master: Emilia
+* Product Owner: Joao Piazza
+* Equipe de Desenvolvimento
+    * Pedro Henrique Ferreira Amorim
+    * Ariel Ortega
+    * 
+* Equipe de Design
+    *
+    
 
-Exemplificação: A equipe utiliza metodologias ágeis, tendo escolhido o Scrum como base para definição do processo de desenvolvimento. A equipe está organizada da seguinte maneira:
-- Scrum Master: Felipe Domingos;
-- Product Owner: Rommel Carneiro;
-- Equipe de Desenvolvimento: Pedro Penna, Pedro Ivo, Rodrigo Richard;
-- Equipe de Design: Simone Nogueira.
+Para organização e distribuição das tarefas do projeto, a equipe está utilizando Trello, estruturado com as seguintes listas: 
+
+* Backlog: Recebe as tarefas a serem trabalhadas e representa o Product Backlog. Todas as atividades identificadas no decorrer do projeto também devem ser incorporadas a esta lista.
+* To Do: Esta lista representa o Sprint Backlog. 
+* Doing: Quando uma tarefa tiver sido iniciada, ela é movida para cá.
+* Done: Nesta lista são colocadas as tarefas que passaram pelos testes e controle de qualidade e estão prontos para ser entregues ao usuário. Não há mais edições ou revisões necessárias, ele está agendado e pronto para a ação.
 
 > **Links Úteis**:
 > - [11 Passos Essenciais para Implantar Scrum no seu Projeto](https://mindmaster.com.br/scrum-11-passos/)
