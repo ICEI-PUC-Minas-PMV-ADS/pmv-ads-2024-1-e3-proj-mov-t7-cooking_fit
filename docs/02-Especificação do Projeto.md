@@ -242,3 +242,9 @@ O processo de determinar o orçamento do projeto é uma tarefa que depende, alé
 
 
 ![Orçamento](img/02-orcamento.png)
+
+
+## Diagrama ed classe 
+
+![image](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/144743654/40a1fbd9-c30b-4132-9e7f-004f99303f8c)
+
