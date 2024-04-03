@@ -1,12 +1,11 @@
 # Apresentação
 
-<span style="color:red">Pré-requisitos: Todos os demais artefatos</span>
+CookingFit
 
-Conjunto de slides em um arquivo PowerPoint ou PDF com a apresentação do projeto contemplando todos os itens trabalhados nos demais artefatos.
 
-## Título do Projeto
+https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2024-1-e3-proj-mov-t7-cooking_fit/assets/146040771/24108fb9-b47b-4d2c-91c5-f9408b661e82
 
-Nome e marca do projeto
+
 
 ## Identidade Visual (Marca, Design)
 
